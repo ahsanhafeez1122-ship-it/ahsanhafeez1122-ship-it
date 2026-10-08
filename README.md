@@ -1,10 +1,10 @@
-### Hi, I'm Ahsan Hafeez 👋
+### Hi, I'm Ahsan Hafeez 
 
 **E-commerce & backend developer** with 4+ years on live Magento 2 stores for high-traffic UK retail
 brands. I work on checkout, payments, shipping, returns, product data and speed, and I also build
 Laravel APIs and Flutter apps on Supabase.
 
-📍 Islamabad, Pakistan · 📫 ahsanhafeez1122@gmail.com
+ Islamabad, Pakistan ·  ahsanhafeez1122@gmail.com
 
 #### What I'm good at
 - **Magento 2 / Adobe Commerce**: custom modules, checkout and order customisation, RMA, admin features
